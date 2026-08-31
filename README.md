@@ -1,6 +1,7 @@
+
+BE CAREFUL, THIS AN OLD REPOSITORY WITH MANY SECURITY ISSUE IN THE DEPENDENCIES.
+
 # OCO-2 CO<sub>2</sub> peak detector
-
-
 
 ## General presentation
 > The goal of our project is to localize CO<sub>2</sub> emissions on Earth based on the the carbon concentration data measured by the OCO-2 Satellite from the NASA. 
